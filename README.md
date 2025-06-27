@@ -1,61 +1,59 @@
-<h1 align="center">📚 My Certification Showcase</h1>
+<h1 align="center">
+  🏅 My Certification Showcase
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=My+Learning+Journey+Through+Certifications+%F0%9F%93%9A;Tech+%7C+Cloud+%7C+Leadership+%7C+DevOps+%7C+Programming+%7C+HR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Dedicated+to+Lifelong+Learning+%F0%9F%93%9A;Every+Certificate+Tells+a+Story+%F0%9F%93%97;Welcome+to+My+Certification+Portfolio+%F0%9F%92%AA" alt="Typing Animation" />
 </p>
 
 ---
 
-## 📅 Certifications by Year
+## ✨ Overview
 
-### 🗓️ **2023**
-
-- ✅ **TYPE WRITING – LOWER**  
-  *Completed on:* 02-Feb-2025 *(Originally earned in 2023, verified typewriting certificate)*
-
----
-
-### 🗓️ **2025**
-
-- ✅ **MTF Entrepreneurship** – *25-Jan-2025*  
-- ✅ **60 Days Entrepreneurship** – *25-Jan-2025*  
-- ✅ **JP MORGAN-SE (Virtual Internship)** – *26-Jan-2025*  
-- ✅ **HR Master** – *25-Jan-2025*  
-- ✅ **Leadership** – *25-Jan-2025*  
-- ✅ **Mastering Pointers in C Programming** – *25-Jan-2025*  
-- ✅ **INTRODUCTION TO C++** – *25-Jan-2025*  
-- ✅ **C++ - OOPS, DSA, 103** – *25-Jan-2025*  
-- ✅ **DSA CPP - ABDUL BAARI** – *25-Jan-2025*  
-- ✅ **JAVA PROGRAMMING** – *25-Jan-2025*  
-- ✅ **JAVA - ABDUL BAARI** – *25-Jan-2025*  
-- ✅ **Python Programming Bootcamp** – *25-Jan-2025*  
-- ✅ **PYTHON & DJANGO FRAMEWORK** – *25-Jan-2025*  
-- ✅ **SQL** – *25-Jan-2025*  
-- ✅ **Salesforce** – *25-Jan-2025*  
-- ✅ **Kubernetes** – *25-Jan-2025*  
-- ✅ **Unity** – *25-Jan-2025*  
-- ✅ **Altcoin** – *25-Jan-2025*  
-- ✅ **SECE23CS103** *(Internal Certificate)* – *25-Jan-2025*
+Welcome to my personal certification archive 📂  
+This repository reflects my passion for learning and my progress in mastering various technical and professional skills.  
+All certificates are arranged by **year of completion**, with clear file naming and organized presentation.
 
 ---
 
-## 📂 Certificates Included in this Repository
+## 📆 Certifications Timeline
 
-All certificates listed above are available in the `/certificates/` folder as PDF files. Each file is properly named and timestamped for clarity and credibility.
+### 🎓 **2023**
 
----
+> 🖋️ Only One – but a proud one!
 
-## 🎯 Purpose
-
-This repository serves as a **personal archive** and **proof of continuous learning**, aimed at:
-- Enhancing professional credibility  
-- Showcasing technical and non-technical skillsets  
-- Providing quick reference for recruiters, mentors, or collaborators
+- 📜 **TYPE WRITING – LOWER**  
+  *Completed:* Likely in 2023 (file date: 02-Feb-2025)
 
 ---
 
-## ✨ Final Note
+### 🎓 **2025**
 
-> _“Learning never exhausts the mind.” – Leonardo da Vinci_
+> My most productive certification year yet 🚀
 
-Thank you for taking the time to view my certification journey.
+| 🧾 Certificate Title | 🗓️ Date |
+|---------------------|---------|
+| MTF Entrepreneurship | 25-Jan-2025 |
+| 60 Days Entrepreneurship | 25-Jan-2025 |
+| JP Morgan Virtual Internship | 26-Jan-2025 |
+| HR Master | 25-Jan-2025 |
+| Leadership | 25-Jan-2025 |
+| Mastering Pointers in C | 25-Jan-2025 |
+| Introduction to C++ | 25-Jan-2025 |
+| C++ - OOPS, DSA, 103 | 25-Jan-2025 |
+| DSA - CPP (Abdul Baari) | 25-Jan-2025 |
+| Java Programming | 25-Jan-2025 |
+| Java - Abdul Baari | 25-Jan-2025 |
+| Python Programming Bootcamp | 25-Jan-2025 |
+| Python & Django Framework | 25-Jan-2025 |
+| SQL | 25-Jan-2025 |
+| Salesforce | 25-Jan-2025 |
+| Kubernetes | 25-Jan-2025 |
+| Unity | 25-Jan-2025 |
+| Altcoin | 25-Jan-2025 |
+| SECE23CS103 (Internal) | 25-Jan-2025 |
+
+---
+
+## 🗂️ Repository Structure
+
