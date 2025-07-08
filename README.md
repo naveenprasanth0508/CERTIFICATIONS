@@ -6,33 +6,7 @@
 
 ---
 
-## 📅 Certifications 
 
-### 🗓️ **2025**
-
-| 📄 Certification                           | 📆 Date        |
-|--------------------------------------------|----------------|
-| MTF Entrepreneurship                        | 25-Jan-2025    |
-| 60 Days Entrepreneurship                    | 25-Jan-2025    |
-| JP MORGAN-SE (Virtual Internship)           | 26-Jan-2025    |
-| HR Master                                   | 25-Jan-2025    |
-| Leadership                                  | 25-Jan-2025    |
-| Mastering Pointers in C Programming         | 25-Jan-2025    |
-| INTRODUCTION TO C++                         | 25-Jan-2025    |
-| C++ - OOPS, DSA, 103                         | 25-Jan-2025    |
-| DSA CPP - ABDUL BAARI                       | 25-Jan-2025    |
-| JAVA PROGRAMMING                            | 25-Jan-2025    |
-| JAVA - ABDUL BAARI                          | 25-Jan-2025    |
-| Python Programming Bootcamp                 | 25-Jan-2025    |
-| PYTHON & DJANGO FRAMEWORK                   | 25-Jan-2025    |
-| SQL                                         | 25-Jan-2025    |
-| Salesforce                                  | 25-Jan-2025    |
-| Kubernetes                                  | 25-Jan-2025    |
-| Unity                                       | 25-Jan-2025    |
-| Altcoin                                     | 25-Jan-2025    |
-| SECE23CS103 *(Internal Certificate)*        | 25-Jan-2025    |
-
----
 
 ## 📂 Certificates Included in this Repository
 
